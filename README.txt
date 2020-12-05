@@ -13,5 +13,5 @@ Link na javni prototip: https://www.figma.com/file/At0eRtWmfyLzbKLfuLjih2/ParkFi
 Zaduženja:
 Marijan Ciceran - HTML
 Denis Kodrin - CSS
-
+Danijel Dupor - JAVA
 
