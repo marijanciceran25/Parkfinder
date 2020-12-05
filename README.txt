@@ -10,6 +10,8 @@ Opis: Mobilna aplikacija za pronalaženje parkirnih mjesta i izračun cijene za 
 
 Link na javni prototip: https://www.figma.com/file/At0eRtWmfyLzbKLfuLjih2/ParkFinder-PI?node-id=0%3A1
 
-Zaduženje: HTML
+Zaduženja:
+Marijan Ciceran - HTML
+Denis Kodrin - CSS
 
 
